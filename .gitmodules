@@ -1,0 +1,4 @@
+[submodule "dangerzone"]
+	path = dangerzone
+	url = https://github.com/freedomofpress/dangerzone.git
+	branch = main
